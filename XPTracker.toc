@@ -1,0 +1,7 @@
+## Interface: 1144  (This number is the WoW patch, adjust as needed)
+## Title: XP Tracker
+## Notes: My very first WoW Addon
+## Version: 1.0
+## Author: ColbyJax
+XPTracker.lua
+## SavedVariables: XpPerHourFrameDB
